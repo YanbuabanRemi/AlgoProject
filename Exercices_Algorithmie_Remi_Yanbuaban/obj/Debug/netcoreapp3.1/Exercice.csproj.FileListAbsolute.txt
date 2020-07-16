@@ -1,0 +1,13 @@
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\bin\Debug\netcoreapp3.1\Exercice.exe
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\bin\Debug\netcoreapp3.1\Exercice.deps.json
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\bin\Debug\netcoreapp3.1\Exercice.runtimeconfig.json
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\bin\Debug\netcoreapp3.1\Exercice.runtimeconfig.dev.json
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\bin\Debug\netcoreapp3.1\Exercice.dll
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\bin\Debug\netcoreapp3.1\Exercice.pdb
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\obj\Debug\netcoreapp3.1\Exercice.csproj.CoreCompileInputs.cache
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\obj\Debug\netcoreapp3.1\Exercice.AssemblyInfoInputs.cache
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\obj\Debug\netcoreapp3.1\Exercice.AssemblyInfo.cs
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\obj\Debug\netcoreapp3.1\Exercice.dll
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\obj\Debug\netcoreapp3.1\Exercice.pdb
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\obj\Debug\netcoreapp3.1\Exercice.genruntimeconfig.cache
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\obj\Debug\netcoreapp3.1\Exercice.csprojAssemblyReference.cache

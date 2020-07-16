@@ -1,0 +1,12 @@
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\bin\Debug\netcoreapp3.1\activite_1.exe
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\bin\Debug\netcoreapp3.1\activite_1.deps.json
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\bin\Debug\netcoreapp3.1\activite_1.runtimeconfig.json
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\bin\Debug\netcoreapp3.1\activite_1.runtimeconfig.dev.json
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\bin\Debug\netcoreapp3.1\activite_1.dll
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\bin\Debug\netcoreapp3.1\activite_1.pdb
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\obj\Debug\netcoreapp3.1\activite_1.csproj.CoreCompileInputs.cache
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\obj\Debug\netcoreapp3.1\activite_1.AssemblyInfoInputs.cache
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\obj\Debug\netcoreapp3.1\activite_1.AssemblyInfo.cs
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\obj\Debug\netcoreapp3.1\activite_1.dll
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\obj\Debug\netcoreapp3.1\activite_1.pdb
+C:\Users\Rémi Yanbuaban.000\source\repos\Exercices_Algorithmie_Remi_Yanbuaban\Exercices_Algorithmie_Remi_Yanbuaban\obj\Debug\netcoreapp3.1\activite_1.genruntimeconfig.cache
